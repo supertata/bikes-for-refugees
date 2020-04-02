@@ -35,6 +35,27 @@ button {
 }
 
 /* Buttons */
+
+button {
+	border-radius: 4%;
+	padding: 1% 2%;
+	border: none;
+}
+
+.orange-background {
+	background-color: #e65c00;
+}
+
+.white-background {
+	background-color: white;
+	
+}
+
+.white-font {
+	color: white;
+	}
+
+
 /* INSERT BUTTON STYLES HERE */
 
 
