@@ -48,12 +48,8 @@ button {
 
 .white-background {
 	background-color: white;
-	
 }
 
-.white-font {
-	color: white;
-	}
 
 
 /* INSERT BUTTON STYLES HERE */
@@ -111,6 +107,9 @@ button {
 	background: #ce5f31;
 }
 
+.white-font {
+	color: white;
+}
 /* Article */
 .article {
 	margin-bottom: 2em;
@@ -141,6 +140,12 @@ button {
 	margin-bottom: 0;
 }
 
+/*Sidebar*/
+
+.align-right {
+	text-align: right;
+
+}
 /* Footer */
 .footer {
 	margin-top: 4em;
